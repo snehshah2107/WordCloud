@@ -1,0 +1,13 @@
+
+matplotlib==2.2.2
+nltk==3.3
+numpy==1.14.3
+oauthlib==2.0.7
+Pillow==5.1.0
+praw==5.4.0
+prawcore==0.14.0
+pylint==1.8.4
+pyparsing==2.2.0
+PySocks==1.6.8
+python-dateutil==2.7.3
+wordcloud==1.4.1
